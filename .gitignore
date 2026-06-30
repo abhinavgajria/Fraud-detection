@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.conda/
+data/
+mlflow.db
+mlruns/
+.env
